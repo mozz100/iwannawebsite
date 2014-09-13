@@ -1,0 +1,13 @@
+https://registry.hub.docker.com/u/grahamc/jekyll/
+docker run --rm -v "$PWD:/src" -p 4000:4000 grahamc/jekyll serve
+
+OR
+
+alias jekyll='docker run --rm -v "$PWD:/src" -p 4000:4000 grahamc/jekyll'
+
+Then, for local server, run this:
+
+jekyll serve --force_polling --baseurl ""
+
+(--force_polling gets auto reload to work in a docker container)
+(--baseurl "" gets baseurl working when running locally, on github it's set by _config.yml)

@@ -3,8 +3,8 @@ title: "I'd like a website…"
 description: > # this means to ignore newlines until "baseurl:"
   A set of (hopefully thought-provoking) questions to ask yourself when you
   get that “I want a website” feeling.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/iwannawebsite" # the subpath of your site, e.g. /blog/
+url: "http://mozz100.github.io/iwannawebsite/" # the base hostname & protocol for your site
 twitter_username: mozz100
 github_username:  mozz100
 homepage: http://www.rmorrison.net
