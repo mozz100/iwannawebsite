@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About this little site
+title: About this site
 permalink: /about/
+weight: 01
 ---
 
 I work in/on the web, and I frequently get asked “Can you make me a website?”.
