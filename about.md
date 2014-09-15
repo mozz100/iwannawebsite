@@ -13,7 +13,8 @@ What someone means when they say “a website” varies hugely from person to pe
 I collected my “Frequently ask questions” (*sic*) and, here they are.
 
 As an exercise and a demonstration, this site itself is hosted on github pages using 
-[Jekyll](http://jekyllrb.com/).  It costs me nothing!
+[Jekyll](http://jekyllrb.com/).  Free and easy, and all the source code can be viewed
+on github [here](https://github.com/mozz100/iwannawebsite).
 
 Richard Morrison
 
