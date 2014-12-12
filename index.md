@@ -103,7 +103,7 @@ This section contains some recommendations and referral links.  Alternatives exi
 to register.
 * Do you already have hosting somewhere?  Email?  Free hosting exists (see this site for an example).  Hosting
 companies vary wildly in their ease of use/value for money/commitment to quality.  I recommend [Webfaction](http://www.webfaction.com/?affiliate=mozz).
-* Are you OK paying a small monthly amount to ease the hassles of backup, maintenance, hosting.
+* Are you OK paying a small monthly amount to ease the hassles of backup, maintenance, hosting?
 
 A few ideas for simple website hosting, some of which I've kicked the tyres, some I haven't:
 [droppages](http://droppages.com/), 
