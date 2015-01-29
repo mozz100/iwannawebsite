@@ -111,3 +111,8 @@ A few ideas for simple website hosting, some of which I've kicked the tyres, som
 [Cloudcannon](http://cloudcannon.com/),
 [Github pages](https://pages.github.com/).
 
+## Other people's thoughts
+
+A (growing) collection of links to similarly thought-provoking pages on the web.
+
+* [Asking why](http://signalvnoise.com/posts/3847-asking-why) - Signal vs Noise blog. Focused on personal sites for tecchies, I'd say, but asks some powerful questions.
